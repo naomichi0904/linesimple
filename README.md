@@ -1,5 +1,12 @@
 # linebot-template
 
+
+### Step 2
+
+Tap the deploy button.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naomichi0904/linesimple)
+
 ## 概要
 
 JavaでLINEBOTを作成する際のテンプレート
